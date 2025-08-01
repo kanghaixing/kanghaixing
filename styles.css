@@ -1,0 +1,183 @@
+body {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #FFFFFF;
+    color: rgba(0, 0, 0, 0.8);
+}
+
+@media (max-width: 768px) {
+    .container {
+        padding: 20px 15px;
+    }
+    
+    .header {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    
+    .title {
+        width: 100%;
+        font-size: 26px;
+        line-height: 1.2;
+    }
+    
+    .profile-image {
+        margin-top: 10px;
+        width: 160px;
+        height: 160px;
+    }
+    
+    .skills {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 8px;
+        margin-bottom: 5px;
+    }
+    
+    .skill {
+        font-size: 13px;
+        padding: 4px 8px;
+    }
+    
+    .section-content {
+        width: 100%;
+        font-size: 16px;
+        line-height: 1.5;
+    }
+    
+    .business-image {
+        width: 100%;
+        margin-top: 20px;
+    }
+}
+
+@media (max-width: 480px) {
+    .container {
+        padding: 15px 10px;
+    }
+    
+    .header {
+        margin-bottom: 5px;
+    }
+    
+    .title {
+         font-size: 22px;
+         line-height: 1.2;
+     }
+     
+     .profile-image {
+         width: 140px;
+         height: 140px;
+         margin-top: 8px;
+     }
+     
+     .skills {
+         gap: 5px;
+         margin-bottom: 5px;
+     }
+     
+     .skill {
+         font-size: 11px;
+         padding: 3px 5px;
+     }
+     
+     .section-content {
+         font-size: 13px;
+         line-height: 1.4;
+     }
+     
+     .business-image {
+         margin-top: 15px;
+     }
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 30px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 10px;
+}
+
+.title {
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 2;
+    background: linear-gradient(90deg, #2747FF 0%, #D970FF 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    width: 554px;
+    height: auto;
+}
+
+.profile-image {
+    width: 270px;
+    height: 270px;
+    border-radius: 12px;
+    overflow: hidden;
+    margin-top: 0px;
+}
+
+.profile-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.section {
+    margin-bottom: 60px;
+}
+
+.section-title {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 1.21;
+    margin-bottom: 40px;
+}
+
+.section-content {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.6;
+    width: 834px;
+}
+
+.skills {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 10px;
+}
+
+.skill {
+    border: 2px solid;
+    border-radius: 8px;
+    padding: 6px 10px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    background: linear-gradient(90deg, #2747FF 0%, #D970FF 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    border-image: linear-gradient(90deg, #2747FF 0%, #D970FF 100%) 1;
+}
+
+.business-image {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.business-image img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+}
