@@ -1,8 +1,10 @@
 👋 欢迎访问我的 GitHub 主页！
 Welcome to my github space
 
-我是 康海星 ，一名热爱创新应用的 [连续创业者/科技先锋]。我喜欢探索新技术和构建有趣的项目！
-Michael Kang, Making a startup in AI Application and consulting
+我是 康海星 ，
+设计学硕士在读，一名热爱创新应用的 [连续创业者/科技先锋]。我喜欢探索新技术和构建有趣的项目！
+Michael Kang, 
+Design Master's student. [Serial entrepreneur / tech pioneer] passionate about innovation. Enthusiastic about exploring new tech and building cool projects!
 
 🚀 关于我
 ABOUT ME
