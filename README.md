@@ -2,8 +2,10 @@
 Welcome to my github space
 
 我是 康海星 ，
+Parabolic 联合创始人&COO 
 设计学硕士在读，一名热爱创新应用的 [连续创业者/科技先锋]。我喜欢探索新技术和构建有趣的项目！
 Michael Kang, 
+COO & Co-Founder of Parabolic Ltd. 
 Design Master's student. [Serial entrepreneur / tech pioneer] passionate about innovation. Enthusiastic about exploring new tech and building cool projects!
 
 🚀 关于我
