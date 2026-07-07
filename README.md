@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Michael%20Kenny&fontSize=52&fontAlignY=38&desc=Design%20Researcher%20%7C%20VR%20Interaction%20%7C%20AI%20Visualization&descAlignY=58&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=MICHAEL%20KENNY&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Serial%20Entrepreneur%20%7C%20AI%20Frontier%20%7C%20Embodied%20Intelligence%20%7C%20World%20Models&descSize=17&descAlignY=56&animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
-### Designing interfaces between **human intent**, **virtual worlds**, and **scientific imagination**.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=Building+new+businesses+from+0+to+1;Commercializing+frontier+AI+technologies;Exploring+Embodied+Intelligence+and+Physical+World+Models;Designing+interfaces+between+AI%2C+humans%2C+and+the+real+world)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,125 +14,195 @@
 
 <div align="center">
 
-![Design Research](https://img.shields.io/badge/Design%20Research-HCI%20%26%20VR-blueviolet?style=for-the-badge)
-![VR Interaction](https://img.shields.io/badge/VR%20Interaction-Low--Effort%20Gestures-00BFFF?style=for-the-badge)
-![AI Visualization](https://img.shields.io/badge/AI%20Visualization-Pendulum-FF6B6B?style=for-the-badge)
-![Entrepreneurship](https://img.shields.io/badge/Entrepreneurship-0%20to%201-2ECC71?style=for-the-badge)
+<img src="https://img.shields.io/badge/Serial%20Entrepreneur-0%20to%201-00E5FF?style=for-the-badge&labelColor=0B0F19" />
+<img src="https://img.shields.io/badge/AI%20Commercialization-Frontier%20Tech-7C3AED?style=for-the-badge&labelColor=0B0F19" />
+<img src="https://img.shields.io/badge/Embodied%20Intelligence-Next%20Interface-22C55E?style=for-the-badge&labelColor=0B0F19" />
+<img src="https://img.shields.io/badge/World%20Models-Physical%20AI-F97316?style=for-the-badge&labelColor=0B0F19" />
 
 </div>
 
 ---
 
-## 👋 Hi, I'm Michael
+## 🧠 About Me
 
-I'm a design researcher and builder exploring how humans interact with intelligent systems, virtual environments, and complex scientific ideas.
+I am a **serial entrepreneur and design researcher** focused on turning frontier AI technologies into real-world business applications.
 
-My current work focuses on:
-
-- 🥽 **Low-effort gesture interaction in Virtual Reality**
-- 💪 **sEMG-based evaluation of interaction fatigue**
-- 🧠 **Human-centered AI and embodied interaction**
-- 🌌 **AI-powered mathematical and scientific visualization**
-- 🚀 **Turning research prototypes into real products**
-
----
-
-## 🧭 What I'm Building
-
-<table>
-<tr>
-<td width="50%">
-
-### 🥽 VR Interaction Research
-
-Designing and evaluating low-effort gesture interaction methods for long-duration VR design review tasks.
-
-**Keywords:**  
-`VR` · `Gesture Interaction` · `sEMG` · `Fatigue Evaluation` · `HCI` · `Design Review`
-
-</td>
-<td width="50%">
-
-### 🌌 Pendulum
-
-An AI visualization engine that transforms complex math, physics, and scientific ideas into interactive visual experiences.
-
-**Keywords:**  
-`AI Visualization` · `Scientific Intuition` · `3D/4D Interaction` · `Education` · `Research Tools`
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧪 Research Direction
-
-I care about one question:
-
-> How can we design interactions that feel natural, expressive, and physically sustainable?
-
-In my current research, I use physiological signals such as sEMG, subjective fatigue ratings, and task performance metrics to evaluate whether a VR gesture interaction system is truly low-effort.
+My work sits at the intersection of:
 
 
-Interaction Design
-      ↓
-VR Task Scenario
-      ↓
-Gesture Input
-      ↓
-sEMG + Subjective + Performance Evaluation
-      ↓
+AI Frontier Technology
+        ×
+Embodied Intelligence
+        ×
+Physical World Models
+        ×
+Commercial Growth Strategy
+        ×
+Human-centered Design
+
+I specialize in creating new businesses from 0 to 1, identifying emerging technology opportunities, designing product strategies, and helping companies translate advanced AI capabilities into scalable commercial value.
+
+🚀 Founder DNA
+<table> <tr> <td width="33%">
+01
+0 → 1 Creation
+
+I build new ventures from ambiguity.
+
+From early opportunity discovery to product positioning, prototype validation, go-to-market direction, and business model design.
+
+</td> <td width="33%">
+02
+AI Commercialization
+
+I focus on transforming frontier AI into usable products and business systems.
+
+My current interests include embodied intelligence, AI agents, physical world models, and scientific visualization.
+
+</td> <td width="33%">
+03
+Growth Strategy
+
+I provide commercial growth strategies for companies, founders, and business owners.
+
+I care about market positioning, product leverage, user acquisition, and strategic differentiation.
+
+</td> </tr> </table>
+⚡ Current Focus
+<div align="center">
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   FRONTIER AI → PRODUCT STRATEGY → COMMERCIAL GROWTH          │
+│                                                              │
+│   Embodied Intelligence                                      │
+│   Physical World Models                                      │
+│   AI Agents & Automation                                     │
+│   Scientific Visualization                                   │
+│   Human-AI Interaction                                       │
+│   Venture Building                                           │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+</div>
+🛰️ What I Am Exploring
+<table> <tr> <td width="50%">
+🤖 Embodied Intelligence
+
+I am interested in how AI systems understand, interact with, and act within the physical world.
+
+Keywords
+
+Robotics · Embodied AI · Spatial Intelligence · World Models · Human-AI Collaboration
+
+</td> <td width="50%">
+🌍 Physical World Models
+
+I believe the next generation of AI will move beyond language and images into physics, space, motion, and real-world interaction.
+
+Keywords
+
+Physical AI · Simulation · 3D/4D Intelligence · Interaction Systems · Real-world Reasoning
+
+</td> </tr> <tr> <td width="50%">
+🧩 AI Business Strategy
+
+I help companies and founders discover where AI can create real business value.
+
+Keywords
+
+Growth Strategy · Business Model · AI Transformation · Product Strategy · Commercialization
+
+</td> <td width="50%">
+🥽 Human-AI Interaction
+
+My research explores how humans interact with intelligent systems, virtual environments, and low-effort interfaces.
+
+Keywords
+
+VR Interaction · Gesture Design · sEMG · Fatigue Evaluation · Design Research
+
+</td> </tr> </table>
+🌌 Featured Direction: Pendulum
+
+Making complex science visible, interactive, and intuitive.
+
+Pendulum is an AI-powered visualization engine for transforming abstract mathematical, physical, and scientific ideas into dynamic visual experiences.
+
+It explores a future where AI does not only answer questions, but helps people see, manipulate, and understand complex systems.
+
+Formula / Concept / Scientific Problem
+                ↓
+AI Understanding
+                ↓
+Dynamic 3D / 4D Visualization
+                ↓
+Interactive Scientific Intuition
+
+Focus Areas
+
+AI-generated scientific visualization
+Mathematical and physical intuition
+Interactive 3D/4D knowledge representation
+Education, research, and advanced reasoning tools
+🧪 Research Layer
+
+Alongside entrepreneurship, I am also working on design research around low-effort gesture interaction in Virtual Reality.
+
+The research explores how to evaluate interaction fatigue using physiological signals and task performance.
+
+VR Design Review Task
+        ↓
+Gesture Interaction
+        ↓
+sEMG + Borg CR10 + Task Performance
+        ↓
 Low-effort Interaction Principles
 
-🛠️ Tools & Methods
+Research Keywords
+
+Virtual Reality · Gesture Interaction · sEMG · Fatigue Evaluation · Human-Computer Interaction
+
+🛠️ Stack & Methods
+<div align="center"> <img src="https://img.shields.io/badge/Strategy-0B0F19?style=for-the-badge&logo=target&logoColor=00E5FF" /> <img src="https://img.shields.io/badge/AI-0B0F19?style=for-the-badge&logo=openai&logoColor=00E5FF" /> <img src="https://img.shields.io/badge/Product-0B0F19?style=for-the-badge&logo=figma&logoColor=00E5FF" /> <img src="https://img.shields.io/badge/Unity-0B0F19?style=for-the-badge&logo=unity&logoColor=white" /> <img src="https://img.shields.io/badge/Python-0B0F19?style=for-the-badge&logo=python&logoColor=FFD43B" /> <img src="https://img.shields.io/badge/VR-0B0F19?style=for-the-badge&logo=meta&logoColor=00E5FF" /> <img src="https://img.shields.io/badge/Design%20Research-0B0F19?style=for-the-badge&logo=researchgate&logoColor=22C55E" /> <img src="https://img.shields.io/badge/Business%20Growth-0B0F19?style=for-the-badge&logo=rocket&logoColor=F97316" /> </div>
+🧬 My Operating System
 <div align="center">
-
-
-
-
-
-
-
-
-
-
-
-
+Observe weak signals.
+        ↓
+Find the technology inflection point.
+        ↓
+Design a sharp product wedge.
+        ↓
+Build the first usable prototype.
+        ↓
+Validate real commercial demand.
+        ↓
+Turn 0 into 1.
 </div>
-📌 Featured Projects
-01. Low-effort VR Gesture Interaction
+📌 Selected Themes
+<table> <tr> <td>
+Frontier AI
 
-A research project exploring how gesture design can reduce physical fatigue in VR design review scenarios.
+I track and build around technological shifts before they become obvious.
 
-Built with Unity and Meta Quest 3
-Evaluated using sEMG, Borg CR10, task time, and success rate
-Focused on long-duration mid-air interaction fatigue
-02. Pendulum — AI Scientific Visualization
+</td> <td>
+Commercial Application
 
-An AI-powered engine for turning abstract mathematical and scientific ideas into dynamic visual intuition.
+I care about whether advanced technology can become real products, revenue, and growth.
 
-Formula-to-visualization workflow
-Interactive 3D/4D scientific scenes
-Designed for education, research, and advanced reasoning
-📊 GitHub Overview
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" /> </div>
-✨ Current Focus
-2026
-├── VR low-effort gesture interaction research
-├── sEMG-based fatigue evaluation
-├── AI scientific visualization with Pendulum
-├── Human-centered design systems
-└── Research-to-product translation
+</td> </tr> <tr> <td>
+Embodied Systems
+
+I am exploring AI that interacts with space, objects, bodies, and the physical world.
+
+</td> <td>
+Venture Building
+
+I enjoy creating new categories, new products, and new business directions from scratch.
+
+</td> </tr> </table>
+📊 GitHub Signal
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=00E5FF&text_color=C9D1D9" /> </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0B0F19&color=00E5FF&line=00E5FF&point=FFFFFF" /> </div>
 🌐 Connect
-<div align="center">
-
-
-
-
-
-
-</div>
-<div align="center">
-Build things that make the invisible visible.
-</div> 
+<div align="center"> <a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/GitHub-YOUR_USERNAME-0B0F19?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://YOUR_WEBSITE"> <img src="https://img.shields.io/badge/Website-Portfolio-00E5FF?style=for-the-badge&labelColor=0B0F19" /> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&labelColor=0B0F19&logo=gmail&logoColor=white" /> </a> </div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5FF,50:7C3AED,100:F97316" /> <br/>
+Building the bridge between frontier intelligence and the physical world.
+<br/> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364" /> </div>
