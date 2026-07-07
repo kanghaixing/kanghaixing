@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=Building+new+businesses+from+0+to+1;Commercializing+frontier+AI+technologies;Exploring+Embodied+Intelligence+and+Physical+World+Models;Designing+interfaces+between+AI%2C+humans%2C+and+the+real+world)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2600&pause=700&color=#0077ff&center=true&vCenter=true&width=900&lines=Building+new+businesses+from+0+to+1;Commercializing+frontier+AI+technologies;Exploring+Embodied+Intelligence+and+Physical+World+Models;Designing+interfaces+between+AI%2C+humans%2C+and+the+real+world)](https://git.io/typing-svg)
 
 </div>
 
@@ -200,9 +200,9 @@ I enjoy creating new categories, new products, and new business directions from 
 
 </td> </tr> </table>
 📊 GitHub Signal
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=00E5FF&text_color=C9D1D9" /> </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0B0F19&color=00E5FF&line=00E5FF&point=FFFFFF" /> </div>
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=kanghaixing&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=00E5FF&text_color=C9D1D9" /> </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanghaixing&theme=react-dark&hide_border=true&bg_color=0B0F19&color=00E5FF&line=00E5FF&point=FFFFFF" /> </div>
 🌐 Connect
-<div align="center"> <a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/GitHub-YOUR_USERNAME-0B0F19?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://YOUR_WEBSITE"> <img src="https://img.shields.io/badge/Website-Portfolio-00E5FF?style=for-the-badge&labelColor=0B0F19" /> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&labelColor=0B0F19&logo=gmail&logoColor=white" /> </a> </div>
+<div align="center"> <a href="https://github.com/kanghaixing"> <img src="https://img.shields.io/badge/GitHub-YOUR_USERNAME-0B0F19?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://YOUR_WEBSITE"> <img src="https://img.shields.io/badge/Website-Portfolio-00E5FF?style=for-the-badge&labelColor=0B0F19" /> </a> <a href="mailto:Michael_kang193@163.com"> <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&labelColor=0B0F19&logo=gmail&logoColor=white" /> </a> </div>
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5FF,50:7C3AED,100:F97316" /> <br/>
 Building the bridge between frontier intelligence and the physical world.
 <br/> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364" /> </div>
